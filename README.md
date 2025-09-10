@@ -1,6 +1,6 @@
 # Real-Time Object Detection using OpenCV 🎯
 
-This project demonstrates **real-time object detection** using **OpenCV** and deep learning models (such as MobileNet SSD or YOLO).  
+This project demonstrates **real-time object detection** using **OpenCV** and deep learning models (such as MobileNet SSD & YOLO).  
 It captures live video from a webcam (or video file) and detects objects in real-time with bounding boxes and labels.
 
 ---
